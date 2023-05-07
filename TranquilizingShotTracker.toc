@@ -1,0 +1,11 @@
+## Interface: 100100
+## Title: TranquilizingShotTracker
+## Notes: Tranq Shot Reminder
+## Author: Sharpedge_Gaming
+## Maintainer: Sharpedge_Gaming
+## Version: v0.1
+
+## SavedVariables: TranquilizingShotTrackerDB
+
+TranquilizingShotTracker.lua
+
