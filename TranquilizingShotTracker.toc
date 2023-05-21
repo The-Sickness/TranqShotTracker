@@ -3,9 +3,21 @@
 ## Notes: Tranq Shot Reminder
 ## Author: Sharpedge_Gaming
 ## Maintainer: Sharpedge_Gaming
-## Version: v0.1
-
+## Version: v1.1
 ## SavedVariables: TranquilizingShotTrackerDB
 
+
+
+Libs\LibStub\LibStub.lua
+Libs\AceAddon-3.0\AceAddon-3.0.lua
+Libs\AceDB-3.0\AceDB-3.0.lua
+Libs\AceConfig-3.0\AceConfig-3.0.lua
+Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+Libs\AceConfigDialog-3.0\AceConfigDialog-3.0.lua
+Libs\AceGUI-3.0\AceGUI-3.0.lua
+Libs\AceEvent-3.0\AceEvent-3.0.lua
+
+
 TranquilizingShotTracker.lua
+
 
